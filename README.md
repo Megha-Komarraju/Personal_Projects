@@ -18,7 +18,10 @@ Now, I am currently focusing on analyzing our day to day problems, predciting th
 
 ## Contact me
 Please feel free to shoot me a message or email. Happy to talk, help and share !!!
-| Contact Method | 
-| Personal Email | meghakomarraju@gmail.com |
-| School Email   | megha.komarraju@marylandsmith.umd.edu |
-| LinkedIn       | https://www.linkedin.com/in/meghakomarraju/ |
+| Contact Method  |                                             |
+| --------------- | --------------------------------------------|
+| Personal Email  | meghakomarraju@gmail.com                    |
+| School Email    | megha.komarraju@marylandsmith.umd.edu       |
+| LinkedIn        | https://www.linkedin.com/in/meghakomarraju/ |
+
+
