@@ -2,7 +2,7 @@
 ## Index
 This repository holds all of my personal projects that I've done over the years.
 
-* Data Science Projects#(https://github.com/Megha-Komarraju/Personal_Projects/tree/main/Data%20Science%20Projects)
+* Data Science Projects
 * Tableau Visualizations
 
 Each category has their own variety of projects and are accompanied by documentation.
