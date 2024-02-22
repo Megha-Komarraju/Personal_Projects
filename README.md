@@ -2,8 +2,8 @@
 ## Index
 This repository holds all of my personal projects that I've done over the years.
 
-* Data Science Projects
-* Tableau Visualizations
+* Python Projects
+* Machine Learning Projects
 
 Each category has their own variety of projects and are accompanied by documentation.
 
