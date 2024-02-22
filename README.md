@@ -2,7 +2,7 @@
 ## Index
 This repository holds all of my personal projects that I've done over the years.
 
-* Python Projects
+* [Python Projects](https://github.com/Megha-Komarraju/Personal_Projects/tree/main/Python%20Projects)
 * Machine Learning Projects
 
 Each category has their own variety of projects and are accompanied by documentation.
